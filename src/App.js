@@ -73,7 +73,9 @@ render() {
           isPaused={this.state.isPaused}
           sound={this.state.sound}
         />
+        <p>Test by Sergio Ortega for Soundity</p>
       </div>
+      
     </div>
   );
 }}
